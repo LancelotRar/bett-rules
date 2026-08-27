@@ -26,7 +26,7 @@ sing-box：[sing branch](https://github.com/appshubcc/bett-rules/tree/sing)
 
 ## **country.mmdb, geoip.dat, geoip.db, geoip.metadb 内容**
 
-包含全球所有国家/地区代码以及保留网段 (`geoip:private`)
+包含全球所有国家/地区代码以及保留网段 `geoip:private`
 
 - 新增类别（方便有特殊需求的用户使用，均已严格去除 CN 节点）：
   - `geoip:apple`
